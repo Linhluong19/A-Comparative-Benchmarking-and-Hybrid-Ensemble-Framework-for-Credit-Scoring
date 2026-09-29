@@ -1,0 +1,2 @@
+# A-Comparative-Benchmarking-and-Hybrid-Ensemble-Framework-for-Credit-Scoring
+We trained and evaluated three distinct machine learning methodologies namely Logistic Regression, Gradient Boosted Trees, and Multi - Layer Perceptron, on a single, unified benchmark credit dataset. Then built a combined ensemble model and translate default predictions into a two-stage financial risk and interest rate pricing engine.
